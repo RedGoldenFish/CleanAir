@@ -1,0 +1,4 @@
+https://www.geodair.fr/donnees/
+https://www.data.gouv.fr/fr/datasets/
+https://assurance-maladie.ameli.fr/etudes-et-donnees/
+https://www.data.gouv.fr/en/datasets/carte-des-departements-2-1/

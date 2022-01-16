@@ -1,0 +1,7 @@
+difficile de trouver la database
+
+Un docteur m'a conseillé de me concentrer sur l'asthme, les bronchiolites et l'atopie surtout chez les enfants mais je n'ai pas trouvé ces données
+
+Parsé, script bash pour remettre les données en forme vu que Sparks gère la data de sorte qu'elle soit partagée
+
+Give credit to "© les contributeurs d'OpenStreetMap sous licence ODbL" 
